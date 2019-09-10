@@ -22,6 +22,8 @@ Currently the script has only been tested on `Debian based OS with Nautilus File
 
 - Everything is setup now. You can now use the script by right clicking on any video file and selecting Scripts -> Mp4_To_Mp3.py (or whatever the file name is)
 
+     ![Demo Gif](https://github.com/sharma-kunal/Video-To-Audio-Converter/blob/master/demo/demo.gif)
+
 ### NOTE:
 
 Sometimes an error is raised stating that ffmpeg is not found like `No ffmpeg exe could be found. Install ffmpeg on your system, or set the IMAGEIO_FFMPEG_EXE environment variable`. 
