@@ -20,9 +20,11 @@ Currently the script has only been tested on `Debian based OS with Nautilus File
 
 - Now right click on the file, go to Properties and select the Permissions. Now check the `Allow Executing file as program` dialog box.
 
+     ![Properties Demo Gif](https://github.com/sharma-kunal/Video-To-Audio-Converter/blob/master/demo/demo1.gif)
+
 - Everything is setup now. You can now use the script by right clicking on any video file and selecting Scripts -> Mp4_To_Mp3.py (or whatever the file name is)
 
-     ![Demo Gif](https://github.com/sharma-kunal/Video-To-Audio-Converter/blob/master/demo/demo.gif)
+     ![PDemo Gif](https://github.com/sharma-kunal/Video-To-Audio-Converter/blob/master/demo/demo.gif)
 
 ### NOTE:
 
