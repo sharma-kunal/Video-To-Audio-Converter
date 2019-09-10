@@ -16,7 +16,7 @@ Currently the script has only been tested on `Debian based OS with Nautilus File
   pip3 install moviepy
 ```
 
-- Copy the `Mp4_To_Mp3.py` file to the location ~/.local/share/nautilus/scripts (.local directory should be hidden, so if you can't find the directory check the `Show Hidden Files` in the settings.)
+- Copy the `Video_to_Audio.py` file to the location ~/.local/share/nautilus/scripts (.local directory should be hidden, so if you can't find the directory check the `Show Hidden Files` in the settings.)
 
 - Now right click on the file, go to Properties and select the Permissions. Now check the `Allow Executing file as program` dialog box.
 

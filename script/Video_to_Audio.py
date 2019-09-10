@@ -13,10 +13,9 @@ for p in paths:
     	sendmessage(p)
 
 try:
-	#name = str(p.split('/')[-1]).split('.')[-1]
-	#sendmessage(name)
+	name = str(p.split('/')[-1]).split('.')[0]
 	video = mp.VideoFileClip(p)
-	video.audio.write_audiofile("Converted_Audio.mp3")
+	video.audio.write_audiofile(name + ".mp3")
 	sendmessage("Done")
 except Exception as e:
         sendmessage("An Error Occured")
