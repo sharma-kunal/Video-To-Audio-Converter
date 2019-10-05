@@ -1,4 +1,4 @@
-# Video to Audio Converter
+# Video to Audio Converter Script (Python3)
 
 This is a simple Video to Audio Converter written in `python3` that can be used to convert any video file to audio file with just one click.
 
